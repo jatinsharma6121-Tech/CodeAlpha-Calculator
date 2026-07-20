@@ -28,7 +28,7 @@ Calculator/
 
 ## 📷 Screenshot
 
-> ![Calculator Screenshot](images/screenshot.png.png)
+> ![Calculator Screenshot](screenshot.png)
 ## 👨‍💻 Author
 
 **Jatin Sharma**
